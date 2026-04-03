@@ -1,8 +1,7 @@
 # Dating_Algorithms_Human_Bias
 
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Plotly](https://img.shields.io/badge/Visualization-Plotly-brightgreen.svg)
 
 ## 📌 Project Overview
 What actually drives two strangers to want to see each other again after only 4 minutes? This project analyzes a dataset of **6,000+ speed dating events** (Columbia University) to identify the real triggers of human attraction, moving beyond what people *claim* they want to focus on what they actually *choose*.
